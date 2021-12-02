@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WhatsReal</string>
+    <string name="app_chat">Usuario</string>
+    <string name="cara">cara</string>
+
+    /*Main*/
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btnLoginTXT">Login</string>
+    <string name="txtForgot">Forgot username/password?</string>
+
+    /*Mensaje*/
+    <string name="mensajeChat">Usuario</string>
+    <string name="back">Back</string>
+    <string name="videocall">Videocall</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="profile_picture_from_contact">Profile Picture from contact</string>
+    <string name="message">Message</string>
+    <string name="emojis">Emojis</string>
+    <string name="send_file">Send file</string>
+    <string name="send_a_picture">Send a picture</string>
+    <string name="aqui_va_el_msg">Aqui va el mensaje</string>
+
+    /*Inicio*/
+    <string name="usuario">User</string>
+    <string name="mensaje">Message</string>
+    <string name="hora">H:MM AM/PM</string>
+    <string name="search">Search</string>
+    <string name="name_of_the_app">Name of the app</string>
+    <string name="navigation_bar">Navigation bar</string>
+    <string name="new_message">New Message</string>
+
+    /*Status*/
+    <string name="fechayhora">Mes Dia, H:MM A.M/P.M.</string>
+    <string name="updatesStatus">Recent updates</string>
+    <string name="status">Tap to add satus update</string>
+    <string name="new_text_status">New Text Status</string>
+    <string name="new_status">New Status</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="searchStatus">Search</string>
+    <string name="horamensaje">hora</string>
+    <string name="id">id</string>
+
+</resources>
