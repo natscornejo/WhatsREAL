@@ -96,7 +96,8 @@
 
                         app:iconGravity="textTop"
                         app:iconTint="@color/teal_700"
-                        app:strokeWidth="0dp">
+                        app:strokeWidth="0dp"
+                        tools:ignore="SpeakableTextPresentCheck">
 
                     </com.google.android.material.button.MaterialButton>
                 </LinearLayout>

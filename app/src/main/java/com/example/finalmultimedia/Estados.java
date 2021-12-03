@@ -25,11 +25,7 @@ import android.widget.ImageButton;
 
 import cz.msebera.android.httpclient.Header;
 
-public class Estados extends AppCompatActivity implements
-        View.OnClickListener,
-        CompoundButton.OnCheckedChangeListener,
-        BottomNavigationView.OnNavigationItemSelectedListener
-        {
+public class Estados extends AppCompatActivity implements View.OnClickListener, CompoundButton.OnCheckedChangeListener, BottomNavigationView.OnNavigationItemSelectedListener {
 
             BottomNavigationView btnNav;
             RecyclerView rViewJAVAStatus;
@@ -43,7 +39,7 @@ public class Estados extends AppCompatActivity implements
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);                //Se mandan a llamar por su Id
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_estados);
         //getSupportActionBar().hide();
 

@@ -86,6 +86,7 @@ public class Mensaje extends AppCompatActivity implements
     }
 
     public void newMSG(View view) {
+
     }
 
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {

@@ -22,16 +22,13 @@ public class EstadosAdapter extends RecyclerView.Adapter<EstadosHolder> {
     @NonNull
     @Override
     public EstadosHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-
         View view = LayoutInflater.from(parent.getContext())
                 .inflate(R.layout.status, parent, false);
-
         return new EstadosHolder(view);
     }
 
     @Override
     public void onBindViewHolder(@NonNull EstadosHolder holder, int position) {
-
         holder.bind(_estadoList.get(position));
     }
 
